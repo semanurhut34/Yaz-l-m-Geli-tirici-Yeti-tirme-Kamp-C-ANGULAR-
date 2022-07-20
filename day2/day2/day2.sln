@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day2", "day2\day2.csproj", "{AB692718-7FA4-4565-8808-92DEBD2AF929}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day2.1(donguler)", "day2.1\day2.1(donguler).csproj", "{2E2E1D43-8EA3-4DCA-812E-098BE48BF49C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day2Work6", "day2Work6\day2Work6.csproj", "{7D74B65C-677E-4AC0-A40C-2FE339F93F13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB692718-7FA4-4565-8808-92DEBD2AF929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB692718-7FA4-4565-8808-92DEBD2AF929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB692718-7FA4-4565-8808-92DEBD2AF929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB692718-7FA4-4565-8808-92DEBD2AF929}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E2E1D43-8EA3-4DCA-812E-098BE48BF49C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E2E1D43-8EA3-4DCA-812E-098BE48BF49C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E2E1D43-8EA3-4DCA-812E-098BE48BF49C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E2E1D43-8EA3-4DCA-812E-098BE48BF49C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D74B65C-677E-4AC0-A40C-2FE339F93F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D74B65C-677E-4AC0-A40C-2FE339F93F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D74B65C-677E-4AC0-A40C-2FE339F93F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D74B65C-677E-4AC0-A40C-2FE339F93F13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E52BF7B-FFED-4048-BCF8-B1FB0F734197}
+	EndGlobalSection
+EndGlobal

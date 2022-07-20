@@ -1,0 +1,8 @@
+C:\Users\semanur\source\repos\day2\day2.1\bin\Debug\day2.1.exe.config
+C:\Users\semanur\source\repos\day2\day2.1\bin\Debug\day2.1.exe
+C:\Users\semanur\source\repos\day2\day2.1\bin\Debug\day2.1.pdb
+C:\Users\semanur\source\repos\day2\day2.1\obj\Debug\day2.1(donguler).csproj.AssemblyReference.cache
+C:\Users\semanur\source\repos\day2\day2.1\obj\Debug\day2.1(donguler).csproj.SuggestedBindingRedirects.cache
+C:\Users\semanur\source\repos\day2\day2.1\obj\Debug\day2.1(donguler).csproj.CoreCompileInputs.cache
+C:\Users\semanur\source\repos\day2\day2.1\obj\Debug\day2.1.exe
+C:\Users\semanur\source\repos\day2\day2.1\obj\Debug\day2.1.pdb

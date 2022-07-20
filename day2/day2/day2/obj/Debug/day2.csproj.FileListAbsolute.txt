@@ -1,0 +1,8 @@
+C:\Users\semanur\source\repos\day2\day2\bin\Debug\day2.exe.config
+C:\Users\semanur\source\repos\day2\day2\bin\Debug\day2.exe
+C:\Users\semanur\source\repos\day2\day2\bin\Debug\day2.pdb
+C:\Users\semanur\source\repos\day2\day2\obj\Debug\day2.csproj.AssemblyReference.cache
+C:\Users\semanur\source\repos\day2\day2\obj\Debug\day2.csproj.SuggestedBindingRedirects.cache
+C:\Users\semanur\source\repos\day2\day2\obj\Debug\day2.csproj.CoreCompileInputs.cache
+C:\Users\semanur\source\repos\day2\day2\obj\Debug\day2.exe
+C:\Users\semanur\source\repos\day2\day2\obj\Debug\day2.pdb
