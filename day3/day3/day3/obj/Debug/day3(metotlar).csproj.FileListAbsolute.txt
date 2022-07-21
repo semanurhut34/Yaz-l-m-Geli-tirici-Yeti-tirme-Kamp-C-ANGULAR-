@@ -1,0 +1,8 @@
+C:\Users\semanur\source\repos\day3\day3\bin\Debug\day3.exe.config
+C:\Users\semanur\source\repos\day3\day3\bin\Debug\day3.exe
+C:\Users\semanur\source\repos\day3\day3\bin\Debug\day3.pdb
+C:\Users\semanur\source\repos\day3\day3\obj\Debug\day3(metotlar).csproj.AssemblyReference.cache
+C:\Users\semanur\source\repos\day3\day3\obj\Debug\day3(metotlar).csproj.SuggestedBindingRedirects.cache
+C:\Users\semanur\source\repos\day3\day3\obj\Debug\day3(metotlar).csproj.CoreCompileInputs.cache
+C:\Users\semanur\source\repos\day3\day3\obj\Debug\day3.exe
+C:\Users\semanur\source\repos\day3\day3\obj\Debug\day3.pdb

@@ -1,0 +1,8 @@
+C:\Users\semanur\source\repos\day3Work1\day3Work1\bin\Debug\day3Work1.exe.config
+C:\Users\semanur\source\repos\day3Work1\day3Work1\bin\Debug\day3Work1.exe
+C:\Users\semanur\source\repos\day3Work1\day3Work1\bin\Debug\day3Work1.pdb
+C:\Users\semanur\source\repos\day3Work1\day3Work1\obj\Debug\day3Work13(ClassMetotDemo).csproj.AssemblyReference.cache
+C:\Users\semanur\source\repos\day3Work1\day3Work1\obj\Debug\day3Work13(ClassMetotDemo).csproj.SuggestedBindingRedirects.cache
+C:\Users\semanur\source\repos\day3Work1\day3Work1\obj\Debug\day3Work13(ClassMetotDemo).csproj.CoreCompileInputs.cache
+C:\Users\semanur\source\repos\day3Work1\day3Work1\obj\Debug\day3Work1.exe
+C:\Users\semanur\source\repos\day3Work1\day3Work1\obj\Debug\day3Work1.pdb

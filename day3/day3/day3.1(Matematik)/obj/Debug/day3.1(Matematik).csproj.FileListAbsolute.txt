@@ -1,0 +1,8 @@
+C:\Users\semanur\source\repos\day3\day3.1(Matematik)\bin\Debug\day3.1(Matematik).exe.config
+C:\Users\semanur\source\repos\day3\day3.1(Matematik)\bin\Debug\day3.1(Matematik).exe
+C:\Users\semanur\source\repos\day3\day3.1(Matematik)\bin\Debug\day3.1(Matematik).pdb
+C:\Users\semanur\source\repos\day3\day3.1(Matematik)\obj\Debug\day3.1(Matematik).csproj.AssemblyReference.cache
+C:\Users\semanur\source\repos\day3\day3.1(Matematik)\obj\Debug\day3.1(Matematik).csproj.SuggestedBindingRedirects.cache
+C:\Users\semanur\source\repos\day3\day3.1(Matematik)\obj\Debug\day3.1(Matematik).csproj.CoreCompileInputs.cache
+C:\Users\semanur\source\repos\day3\day3.1(Matematik)\obj\Debug\day3.1(Matematik).exe
+C:\Users\semanur\source\repos\day3\day3.1(Matematik)\obj\Debug\day3.1(Matematik).pdb
