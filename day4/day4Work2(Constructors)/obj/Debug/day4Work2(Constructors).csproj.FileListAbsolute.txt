@@ -1,0 +1,8 @@
+C:\Users\semanur\source\repos\day4\day4Work2(Constructors)\bin\Debug\day4Work2(Constructors).exe.config
+C:\Users\semanur\source\repos\day4\day4Work2(Constructors)\bin\Debug\day4Work2(Constructors).exe
+C:\Users\semanur\source\repos\day4\day4Work2(Constructors)\bin\Debug\day4Work2(Constructors).pdb
+C:\Users\semanur\source\repos\day4\day4Work2(Constructors)\obj\Debug\day4Work2(Constructors).csproj.AssemblyReference.cache
+C:\Users\semanur\source\repos\day4\day4Work2(Constructors)\obj\Debug\day4Work2(Constructors).csproj.SuggestedBindingRedirects.cache
+C:\Users\semanur\source\repos\day4\day4Work2(Constructors)\obj\Debug\day4Work2(Constructors).csproj.CoreCompileInputs.cache
+C:\Users\semanur\source\repos\day4\day4Work2(Constructors)\obj\Debug\day4Work2(Constructors).exe
+C:\Users\semanur\source\repos\day4\day4Work2(Constructors)\obj\Debug\day4Work2(Constructors).pdb

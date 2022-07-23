@@ -1,0 +1,8 @@
+C:\Users\semanur\source\repos\day4\day4Work3(Generics)\bin\Debug\day4Work3(Generics).exe.config
+C:\Users\semanur\source\repos\day4\day4Work3(Generics)\bin\Debug\day4Work3(Generics).exe
+C:\Users\semanur\source\repos\day4\day4Work3(Generics)\bin\Debug\day4Work3(Generics).pdb
+C:\Users\semanur\source\repos\day4\day4Work3(Generics)\obj\Debug\day4Work3(Generics).csproj.AssemblyReference.cache
+C:\Users\semanur\source\repos\day4\day4Work3(Generics)\obj\Debug\day4Work3(Generics).csproj.SuggestedBindingRedirects.cache
+C:\Users\semanur\source\repos\day4\day4Work3(Generics)\obj\Debug\day4Work3(Generics).csproj.CoreCompileInputs.cache
+C:\Users\semanur\source\repos\day4\day4Work3(Generics)\obj\Debug\day4Work3(Generics).exe
+C:\Users\semanur\source\repos\day4\day4Work3(Generics)\obj\Debug\day4Work3(Generics).pdb

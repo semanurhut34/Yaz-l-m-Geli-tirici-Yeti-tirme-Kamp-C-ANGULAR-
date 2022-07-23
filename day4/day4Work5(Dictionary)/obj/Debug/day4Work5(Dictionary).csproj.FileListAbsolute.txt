@@ -1,0 +1,8 @@
+C:\Users\semanur\source\repos\day4\day4Work5(Dictionary)\bin\Debug\day4Work5(Dictionary).exe.config
+C:\Users\semanur\source\repos\day4\day4Work5(Dictionary)\bin\Debug\day4Work5(Dictionary).exe
+C:\Users\semanur\source\repos\day4\day4Work5(Dictionary)\bin\Debug\day4Work5(Dictionary).pdb
+C:\Users\semanur\source\repos\day4\day4Work5(Dictionary)\obj\Debug\day4Work5(Dictionary).csproj.AssemblyReference.cache
+C:\Users\semanur\source\repos\day4\day4Work5(Dictionary)\obj\Debug\day4Work5(Dictionary).csproj.SuggestedBindingRedirects.cache
+C:\Users\semanur\source\repos\day4\day4Work5(Dictionary)\obj\Debug\day4Work5(Dictionary).csproj.CoreCompileInputs.cache
+C:\Users\semanur\source\repos\day4\day4Work5(Dictionary)\obj\Debug\day4Work5(Dictionary).exe
+C:\Users\semanur\source\repos\day4\day4Work5(Dictionary)\obj\Debug\day4Work5(Dictionary).pdb
