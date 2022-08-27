@@ -1,0 +1,8 @@
+C:\Users\semanur\source\repos\day5\day5Work5\bin\Debug\day5Work5.exe.config
+C:\Users\semanur\source\repos\day5\day5Work5\bin\Debug\day5Work5.exe
+C:\Users\semanur\source\repos\day5\day5Work5\bin\Debug\day5Work5.pdb
+C:\Users\semanur\source\repos\day5\day5Work5\obj\Debug\day5Work5.csproj.AssemblyReference.cache
+C:\Users\semanur\source\repos\day5\day5Work5\obj\Debug\day5Work5.csproj.SuggestedBindingRedirects.cache
+C:\Users\semanur\source\repos\day5\day5Work5\obj\Debug\day5Work5.csproj.CoreCompileInputs.cache
+C:\Users\semanur\source\repos\day5\day5Work5\obj\Debug\day5Work5.exe
+C:\Users\semanur\source\repos\day5\day5Work5\obj\Debug\day5Work5.pdb
