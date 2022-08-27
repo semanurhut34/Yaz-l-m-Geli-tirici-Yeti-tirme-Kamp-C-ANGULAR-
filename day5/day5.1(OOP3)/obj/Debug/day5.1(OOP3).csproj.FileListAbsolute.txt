@@ -1,0 +1,8 @@
+C:\Users\semanur\source\repos\day5\day5.1(OOP3)\bin\Debug\day5.1(OOP3).exe.config
+C:\Users\semanur\source\repos\day5\day5.1(OOP3)\bin\Debug\day5.1(OOP3).exe
+C:\Users\semanur\source\repos\day5\day5.1(OOP3)\bin\Debug\day5.1(OOP3).pdb
+C:\Users\semanur\source\repos\day5\day5.1(OOP3)\obj\Debug\day5.1(OOP3).csproj.AssemblyReference.cache
+C:\Users\semanur\source\repos\day5\day5.1(OOP3)\obj\Debug\day5.1(OOP3).csproj.SuggestedBindingRedirects.cache
+C:\Users\semanur\source\repos\day5\day5.1(OOP3)\obj\Debug\day5.1(OOP3).csproj.CoreCompileInputs.cache
+C:\Users\semanur\source\repos\day5\day5.1(OOP3)\obj\Debug\day5.1(OOP3).exe
+C:\Users\semanur\source\repos\day5\day5.1(OOP3)\obj\Debug\day5.1(OOP3).pdb

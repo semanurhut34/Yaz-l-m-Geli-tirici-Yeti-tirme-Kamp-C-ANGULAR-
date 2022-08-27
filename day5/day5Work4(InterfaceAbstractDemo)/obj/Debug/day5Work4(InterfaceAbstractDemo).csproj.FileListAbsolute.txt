@@ -1,0 +1,8 @@
+C:\Users\semanur\source\repos\day5\day5Work4(InterfaceAbstractDemo)\obj\Debug\day5Work4(InterfaceAbstractDemo).csproj.AssemblyReference.cache
+C:\Users\semanur\source\repos\day5\day5Work4(InterfaceAbstractDemo)\obj\Debug\day5Work4(InterfaceAbstractDemo).csproj.SuggestedBindingRedirects.cache
+C:\Users\semanur\source\repos\day5\day5Work4(InterfaceAbstractDemo)\obj\Debug\day5Work4(InterfaceAbstractDemo).csproj.CoreCompileInputs.cache
+C:\Users\semanur\source\repos\day5\day5Work4(InterfaceAbstractDemo)\bin\Debug\day5Work4(InterfaceAbstractDemo).exe.config
+C:\Users\semanur\source\repos\day5\day5Work4(InterfaceAbstractDemo)\bin\Debug\day5Work4(InterfaceAbstractDemo).exe
+C:\Users\semanur\source\repos\day5\day5Work4(InterfaceAbstractDemo)\bin\Debug\day5Work4(InterfaceAbstractDemo).pdb
+C:\Users\semanur\source\repos\day5\day5Work4(InterfaceAbstractDemo)\obj\Debug\day5Work4(InterfaceAbstractDemo).exe
+C:\Users\semanur\source\repos\day5\day5Work4(InterfaceAbstractDemo)\obj\Debug\day5Work4(InterfaceAbstractDemo).pdb
