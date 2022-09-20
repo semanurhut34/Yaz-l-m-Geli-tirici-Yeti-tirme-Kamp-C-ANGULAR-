@@ -1,0 +1,5 @@
+
+            //Entity Framework, bir ORM(Object Relational Mapping(Nesne İlişki Bağdaştırması))
+            //virtual sayesinde methotları override edebiliyoruz.
+            //SingleOrDefault --> Birden fazla veri dönerse hata veriyor..
+            //Sql ve ilişkili veri tabanı tasarımı konusunu öğrenmelisin.
